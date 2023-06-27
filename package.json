@@ -1,7 +1,11 @@
 {
   "name": "netflix-ui",
   "version": "0.1.0",
+<<<<<<< HEAD
   "private": false,
+=======
+  "private": true,
+>>>>>>> 586e0e57f040893c1c2b02b84c7cfe85a87afaa9
   "dependencies": {
     "@reduxjs/toolkit": "^1.8.2",
     "@testing-library/jest-dom": "^5.16.4",

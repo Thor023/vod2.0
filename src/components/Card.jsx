@@ -14,6 +14,12 @@ const Card = ({ pelicula }) => {
           Ver película
         </Link>
       </div>
+      <img src={pelicula.img} alt={pelicula.nombre} />
+      <h2>{pelicula.nombre}</h2>
+      <p>{pelicula.descripcion}</p>
+      <p>{pelicula.tipo}</p>
+
+      <Link to={`/player/${pelicula.id}`}>Ver película</Link>
     </div>
   );
 };
