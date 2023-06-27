@@ -25,12 +25,12 @@ const Navbar = ({ handleCategoryChange }) => {
             </li>
             <li>
               <Link to="/" onClick={() => handleCategoryChange('rutinas')}>
-                TV
+                Rutinas
               </Link>
             </li>
             <li>
               <Link to="/" onClick={() => handleCategoryChange('ejercicios')}>
-                Movies
+                Ejercicios
               </Link>
             </li>
           </ul>
