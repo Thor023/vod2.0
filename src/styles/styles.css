@@ -89,3 +89,8 @@ a:hover {
 .signout button:hover {
   text-decoration: underline;
 }
+.hero-img{
+  height: 90vh;
+  width: 100vw;
+  object-fit: contain;
+}

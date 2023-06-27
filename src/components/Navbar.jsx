@@ -74,7 +74,7 @@ const Container = styled.div`
   nav {
     position: sticky;
     top: 0;
-    height: 6.5rem;
+    height: 5rem;
     width: 100%;
     justify-content: space-between;
     position: fixed;
@@ -89,7 +89,7 @@ const Container = styled.div`
       gap: 2rem;
       .brand {
         img {
-          height: 4rem;
+          height: 3.5rem;
         }
       }
       .links {
