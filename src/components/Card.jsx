@@ -14,7 +14,6 @@ const Card = ({ pelicula }) => {
           Ver película
         </Link>
       </div>
-
     </div>
   );
 };
