@@ -7,7 +7,7 @@
       "genero": "drama",
       "descripcion": "Descripción de la película 1",
       "fecha_upload": "2023-06-20",
-      "videoUrl": "https://cdn-ts-op-cl.mzzo.com/publicidad/2020/8/5/536",
+      "videoUrl": "https://v.ftcdn.net/03/28/21/32/700_F_328213242_4POqMUl7QdLLmtQj770x6hAjjCbeszZn_ST.mp4",
       "img": "https://www.dexeus.com/blog/wp-content/uploads/2019/11/shutterstock_1495916660-1000x640.jpg"
     },
     {
@@ -17,7 +17,7 @@
       "genero": "acción",
       "descripcion": "Descripción de la película 2",
       "fecha_upload": "2023-06-19",
-      "videoUrl": "https://cdn-ts-op-cl.mzzo.com/publicidad/2020/8/5/9570",
+      "videoUrl": "https://v.ftcdn.net/04/02/65/67/700_F_402656781_TgyK2zEc2t2Fvfgs3iNafCe5njBxdpkx_ST.mp4",
       "img": "https://img.freepik.com/foto-gratis/vista-angulo-hombre-musculoso-irreconocible-preparandose-levantar-barra-club-salud_637285-2497.jpg?w=996&t=st=1687392910~exp=1687393510~hmac=4e21913a21b52a10dc3246bb6d0afde8a7da6e5284844fbfe9eff505a4331996"
     },
     {
@@ -37,7 +37,7 @@
       "genero": ["acción", "comedia"],
       "descripcion": "Descripción de la película 4",
       "fecha_upload": "2023-06-17",
-      "videoUrl": "https://cdn-ts-op-cl.mzzo.com/publicidad/2022/9/20/880",
+      "videoUrl": "https://www.shutterstock.com/shutterstock/videos/1100242369/preview/stock-footage-close-up-view-of-sporty-man-performing-barbell-curls-to-gain-lean-biceps-portrait-of-caucasian.webm",
       "img": "https://img.freepik.com/foto-gratis/mujer-porcion-hombre-gimnasio_23-2149627070.jpg?w=996&t=st=1687393138~exp=1687393738~hmac=43305bfe83e4dfa8b27b1ced9884adf9a268657afbc10f1ca5c6c568ba5c10ee"
     },
     {
@@ -47,7 +47,7 @@
       "genero": ["terror", "suspenso"],
       "descripcion": "Descripción de la película 5",
       "fecha_upload": "2023-06-16",
-      "videoUrl": "https://cdn-ts-op-cl.mzzo.com/publicidad/2019/12/4/1071",
+      "videoUrl": "https://v.ftcdn.net/03/07/14/95/700_F_307149534_Zb0LM3cxgTcq6B2owIHh0n8X4OHnognE_ST.mp4",
       "img": "https://img.freepik.com/foto-gratis/mujeres-sientan-relajan-despues-ejercicio-hay-botella-agua-pesas_1150-16431.jpg?w=996&t=st=1687393166~exp=1687393766~hmac=995e65378ef5c35da3f3ed20e133a18a98e11db89a24fe2126b1bcfaa5597ab8"
     }
   ]
