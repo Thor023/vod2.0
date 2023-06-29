@@ -83,7 +83,7 @@ const Container = styled.div`
       filter: brightness(60%);
     }
     img {
-      height: 100vh;
+      height: 80vh;
       width: 100vw;
       object-fit: cover;
     }

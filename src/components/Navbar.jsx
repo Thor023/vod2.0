@@ -74,7 +74,7 @@ const Container = styled.div`
   nav {
     position: sticky;
     top: 0;
-    height: 5rem;
+    height: 3rem;
     width: 100%;
     justify-content: space-between;
     position: fixed;
